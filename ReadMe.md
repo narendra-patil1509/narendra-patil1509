@@ -1,7 +1,7 @@
 # 💫 Hello, I'm [Narendra Patil!]🖐
 ### Nice to meet you!🤝
 ### I'm softwer Engineer and Shorts Vlogger
-Welcome to my Github Profile<br>
+Welcome to my Github Profile🙂<br>
 Now I’m currently Learing React with Tailwind CSS<br>
 I enjoy learning new technologies in the process.<br>
 
