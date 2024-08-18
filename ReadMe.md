@@ -1,6 +1,9 @@
-# 💫 About Me:
-I'm currently working on Javascript<br>
-
+# 💫 Hello, I'm [Narendra Patil!]🖐
+### Nice to meet you!🤝
+### I'm softwer Engineer and Shorts Vlogger
+Welcome to my Github Profile
+Now I’m currently Learing React with Tailwind CSS<br>
+I enjoy learning new technologies in the process.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/narendra-patil-24768a202/) 
